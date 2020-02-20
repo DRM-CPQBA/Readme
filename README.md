@@ -28,9 +28,9 @@ Sem isto **não** vai conseguir o login e a senha para accesar no servidor
 
 ---
 ## Tutoriais disponíveis
-* [Preparativos para começar](https://github.com/DRM-CPQBA/Tutoriais-DRM/blob/master/Preparativos%20para%20come%C3%A7ar.md)
-* [Linha de comando - Linux](https://)
-* [Controle de qualidade and trimagem](https://)
+* [Preparativos para começar](https://github.com/DRM-CPQBA/Tutoriais-DRM/blob/master/Preparativos%20para%20come%C3%A7ar.md) (**Obrigatório**)
+* [Linha de comando - Linux](https://) (**Obrigatório**)
+* [Controle de qualidade and trimagem](https://) (**Obrigatório**)
 * [Gene 16S rRNA Qiime2](https://)
 * [ITS Qiime2](https://)
 * [Whole Metagenome Sequencing - Metagenômica](https://)
@@ -44,3 +44,4 @@ Sem isto **não** vai conseguir o login e a senha para accesar no servidor
 Você pode ter muitas dúvidas, é normal! Só **não** é permitido ficar com elas, então **não dúvide** em perguntar pra qualquer dos colaboradores, que enquanto a gente puder vai tentar ajudar você a resolve-las.
 
 Have fun!
+
